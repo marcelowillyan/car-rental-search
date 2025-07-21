@@ -66,7 +66,7 @@ Certifique-se de ter o **Docker Desktop** (ou Docker Engine e Docker Compose) in
 1.  **Clone o Repositório:**
 
     ```bash
-    git clone git@github.com:marcelowillyan/car-rental-search.git
+    git clone https://github.com/marcelowillyan/car-rental-search.git
     cd car-rental-search
     ```
 
